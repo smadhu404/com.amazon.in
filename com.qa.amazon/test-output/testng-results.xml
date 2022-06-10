@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T02:25:07Z" name="Default suite" finished-at="2022-06-10T02:25:57Z" duration-ms="49719">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T02:25:07Z" name="Default test" finished-at="2022-06-10T02:25:57Z" duration-ms="49719">
+      <class name="com.amazon.tests.AmazonMenuTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:01Z" name="setUp" finished-at="2022-06-10T02:25:07Z" duration-ms="6559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHamburgerMenuClick()[pri:1, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:08Z" name="testHamburgerMenuClick" finished-at="2022-06-10T02:25:09Z" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHamburgerMenuClick -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:09Z" name="sleep" finished-at="2022-06-10T02:25:12Z" duration-ms="3003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testTvApplMenuClick()[pri:2, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:12Z" name="testTvApplMenuClick" finished-at="2022-06-10T02:25:15Z" duration-ms="3421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTvApplMenuClick -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:15Z" name="sleep" finished-at="2022-06-10T02:25:18Z" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testClickTvMenu()[pri:3, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:18Z" name="testClickTvMenu" finished-at="2022-06-10T02:25:23Z" duration-ms="4474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickTvMenu -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:23Z" name="sleep" finished-at="2022-06-10T02:25:26Z" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testSelectSamsungBrand()[pri:4, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:26Z" name="testSelectSamsungBrand" finished-at="2022-06-10T02:25:31Z" duration-ms="5286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectSamsungBrand -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:31Z" name="sleep" finished-at="2022-06-10T02:25:34Z" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testSortByFilter()[pri:5, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:34Z" name="testSortByFilter" finished-at="2022-06-10T02:25:34Z" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortByFilter -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:34Z" name="sleep" finished-at="2022-06-10T02:25:37Z" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testSelectFilterOption()[pri:6, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:37Z" name="testSelectFilterOption" finished-at="2022-06-10T02:25:39Z" duration-ms="1978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectFilterOption -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:39Z" name="sleep" finished-at="2022-06-10T02:25:42Z" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testSelect2ndTv()[pri:7, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:42Z" name="testSelect2ndTv" finished-at="2022-06-10T02:25:45Z" duration-ms="3352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelect2ndTv -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:45Z" name="sleep" finished-at="2022-06-10T02:25:48Z" duration-ms="3017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method signature="testValidateItem()[pri:8, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:48Z" name="testValidateItem" finished-at="2022-06-10T02:25:54Z" duration-ms="5728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateItem -->
+        <test-method is-config="true" signature="sleep()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:54Z" name="sleep" finished-at="2022-06-10T02:25:57Z" duration-ms="3011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.tests.AmazonMenuTest@7c214cc0]" started-at="2022-06-10T02:25:57Z" name="tearDown" finished-at="2022-06-10T02:25:59Z" duration-ms="1679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.tests.AmazonMenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
